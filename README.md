@@ -17,5 +17,7 @@ Oldpeak: oldpeak = ST [Numeric value measured in depression]
 ST_Slope: the slope of the peak exercise ST segment [Up: upsloping, Flat: flat, Down: downsloping]
 HeartDisease: output class [1: heart disease, 0: Normal]
 
+Kaggle Data:
+https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction/data
 
 Prediction Heart Failure with Decision Tree, Random Forest and XGBoost models
